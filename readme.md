@@ -1,4 +1,35 @@
+## 🧑‍💻 `class Ashokkumar`
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=class+Ashokkumar%3A;name+%3D+%22Ashokkumar+K%22;education+%3D+%22B.Tech+AI+%26+Data+Science+%7C+2026%22;interests+%3D+%5B+AI%2C+GenAI%2C+LLMs%2C+ML+%5D;learning+%3D+%5B+RAG%2C+HuggingFace%2C+LLM+Evaluation+%5D;motto+%3D+%22Learn+-%3E+Build+-%3E+Evaluate+-%3E+Improve%22" alt="Animated Ashokkumar Python profile" />
+</p>
+
+```python
+class Ashokkumar:
+    name = "Ashokkumar K"
+    education = "B.Tech AI & Data Science | 2026"
+
+    interests = [
+        "🤖 Artificial Intelligence",
+        "🧠 Generative AI & LLMs",
+        "📊 Machine Learning",
+        "⚡ AI Agents & Automation",
+        "📈 Data Analytics"
+    ]
+
+    learning = [
+        "🔎 RAG & Embeddings",
+        "🤗 Hugging Face",
+        "🧪 LLM Evaluation",
+        "🔧 Fine-tuning Fundamentals"
+    ]
+
+    motto = "Learn -> Build -> Evaluate -> Improve"
+```
+
+<p align="center">
+  <b>⚡ LEARN</b> → <b>🚀 BUILD</b> → <b>🧪 EVALUATE</b> → <b>♻️ IMPROVE</b>
+</p>
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:111827,55:312E81,100:06B6D4&height=230&section=header&text=ASHOKKUMAR%20K&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20GENAI%20%7C%20ML%20%7C%20AI%20AGENTS&descSize=15&descAlignY=58&animation=twinkling" />
