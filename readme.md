@@ -1,286 +1,264 @@
-## 🧑‍💻 `class Ashokkumar`
+<!-- ═══════════════ CYBER AI PROFILE ═══════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=class+Ashokkumar%3A;name+%3D+%22Ashokkumar+K%22;education+%3D+%22B.Tech+AI+%26+Data+Science+%7C+2026%22;interests+%3D+%5B+AI%2C+GenAI%2C+LLMs%2C+ML+%5D;learning+%3D+%5B+RAG%2C+HuggingFace%2C+LLM+Evaluation+%5D;motto+%3D+%22Learn+-%3E+Build+-%3E+Evaluate+-%3E+Improve%22" alt="Animated Ashokkumar Python profile" />
-</p>
-
-```python
-class Ashokkumar:
-    name = "Ashokkumar K"
-    education = "B.Tech AI & Data Science | 2026"
-
-    interests = [
-        "🤖 Artificial Intelligence",
-        "🧠 Generative AI & LLMs",
-        "📊 Machine Learning",
-        "⚡ AI Agents & Automation",
-        "📈 Data Analytics"
-    ]
-
-    learning = [
-        "🔎 RAG & Embeddings",
-        "🤗 Hugging Face",
-        "🧪 LLM Evaluation",
-        "🔧 Fine-tuning Fundamentals"
-    ]
-
-    motto = "Learn -> Build -> Evaluate -> Improve"
-```
-
-<p align="center">
-  <b>⚡ LEARN</b> → <b>🚀 BUILD</b> → <b>🧪 EVALUATE</b> → <b>♻️ IMPROVE</b>
-</p>
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:111827,55:312E81,100:06B6D4&height=230&section=header&text=ASHOKKUMAR%20K&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20GENAI%20%7C%20ML%20%7C%20AI%20AGENTS&descSize=15&descAlignY=58&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:111827,65:312E81,100:06B6D4&height=230&section=header&text=ASHOKKUMAR%20K&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AI%20ENGINEER%20%7C%20GENAI%20%7C%20ML%20%7C%20AI%20AGENTS&descSize=15&descAlignY=58&animation=twinkling" width="100%" alt="Animated cyber AI header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2000&pause=650&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+AI+Engineer...;%3E+Building+intelligent+applications;%3E+Exploring+LLMs+%26+AI+Agents;%3E+Data+%2B+AI+%2B+Automation;%3E+Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=650&color=00F5FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+AI+Developer+Profile...;%3E+B.Tech+AI+%26+Data+Science+%7C+2026;%3E+Exploring+LLMs%2C+GenAI+%26+Machine+Learning;%3E+Building+Data-Driven+Applications;%3E+Learn+%E2%86%92+Build+%E2%86%92+Evaluate+%E2%86%92+Improve" alt="Animated terminal introduction"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-00F5FF?style=for-the-badge&labelColor=080B18"/>
-<img src="https://img.shields.io/badge/BUILDING-GENAI%20%26%20ML-8B5CF6?style=for-the-badge&labelColor=080B18"/>
-<img src="https://komarev.com/ghpvc/?username=Ashokkumarinfo&style=for-the-badge&color=0891B2&label=VISITORS"/>
+<a href="https://github.com/Ashokkumarinfo">
+  <img src="https://img.shields.io/badge/GitHub-Ashokkumarinfo-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/ashokkumar-k-a78625402/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://ak-portfolio-iota.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
-<br/><br/>
-
-<a href="https://github.com/Ashokkumarinfo"><img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ashokkumar-k-a78625402/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://ak-portfolio-iota.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Ashokkumarinfo&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
 </div>
 
 ---
 
-## 🧬 `whoami`
+## `01` // SYSTEM IDENTITY
 
-```python
-class Ashokkumar:
-    name = "Ashokkumar K"
-    education = "B.Tech AI & Data Science | 2026"
-    interests = [
-        "Artificial Intelligence",
-        "Generative AI & LLMs",
-        "Machine Learning",
-        "AI Agents & Automation",
-        "Data Analytics"
-    ]
-    learning = [
-        "RAG and embeddings",
-        "Hugging Face",
-        "LLM evaluation",
-        "Fine-tuning fundamentals"
-    ]
-    motto = "Learn -> Build -> Evaluate -> Improve"
-```
-
-🧠 Interested in building useful AI-powered applications and data-driven solutions.
-
-⚡ Exploring the intersection of **AI + software + automation** through hands-on projects.
-
-🎯 Looking to contribute to AI engineering, data analytics, and software development teams.
-
----
-
-## ⚡ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages & Development
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,flask,git,github,vscode&theme=dark&perline=8"/>
-
-### 📊 Data Science & Analytics
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,jupyter&theme=dark"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-### 🤖 AI / GenAI Lab
-
-<img src="https://img.shields.io/badge/LLMs-Exploring-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-Learning-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-Exploring-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111"/>
-<img src="https://img.shields.io/badge/AI%20Agents-Learning-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-Practice-DB2777?style=for-the-badge"/>
-
-### 🛠️ Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=linux,docker,vercel&theme=dark"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-Local%20AI-111827?style=for-the-badge"/>
-
-</div>
-
-<sub>Skill levels vary. LLM fine-tuning, RAG, and AI-agent engineering are learning and exploration areas, not claims of production experience.</sub>
-
----
-
-## 🚀 Project Universe
-
-<div align="center">
-
-<a href="https://github.com/Ashokkumarinfo?tab=repositories">
-  <img src="https://img.shields.io/badge/01-AI%20JOB%20SEARCH%20PORTAL-00F5FF?style=for-the-badge&labelColor=080B18"/>
-</a>
-
-**🎯 AI Job Search Portal**
-
-A project focused on job discovery and organizing the job-application journey.
-
-`AI Concepts` `Job Discovery` `Workflow Ideas`
-
-<br/>
-
-<a href="https://github.com/Ashokkumarinfo?tab=repositories">
-  <img src="https://img.shields.io/badge/02-JOB%20SCAM%20DETECTOR-A78BFA?style=for-the-badge&labelColor=080B18"/>
-</a>
-
-**🛡️ Fake Job & Internship Scam Detector**
-
-Exploring text analysis and classification concepts to flag potentially suspicious listings.
-
-`Python` `NLP Concepts` `Classification`
-
-<br/>
-
-<a href="https://github.com/Ashokkumarinfo?tab=repositories">
-  <img src="https://img.shields.io/badge/03-AIRCAST%20%2F%20SKYPLUS-22D3EE?style=for-the-badge&labelColor=080B18"/>
-</a>
-
-**🌍 AirCast / SkyPlus**
-
-An air-quality application concept involving environmental data and API integration.
-
-`Python` `APIs` `Data Processing`
-
-<br/>
-
-<a href="https://github.com/Ashokkumarinfo?tab=repositories">
-  <img src="https://img.shields.io/badge/04-UBER%20RIDE%20PREDICTION-F472B6?style=for-the-badge&labelColor=080B18"/>
-</a>
-
-**🚕 Uber Ride Prediction**
-
-A machine-learning project exploring ride-related prediction and historical data analysis.
-
-`Pandas` `Feature Analysis` `Machine Learning`
-
-<br/>
-
-<a href="https://github.com/Ashokkumarinfo?tab=repositories">
-  <img src="https://img.shields.io/badge/05-DATA%20ANALYTICS%20DASHBOARDS-34D399?style=for-the-badge&labelColor=080B18"/>
-</a>
-
-**📊 SQL & Power BI Dashboards**
-
-Data analytics work focused on queries, reporting, visualizations, and communicating insights.
-
-`SQL` `Excel` `Power BI`
-
-<br/><br/>
-
-<a href="https://github.com/Ashokkumarinfo?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-00F5FF?style=for-the-badge&logo=github&logoColor=black"/></a>
-
-</div>
-
-<sub>Project links currently lead to your repositories because individual repository URLs were not confirmed. Replace each with its exact project URL when available.</sub>
-
----
-
-## 🧪 AI Research Terminal
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=600&color=8B5CF6&center=true&vCenter=true&width=700&lines=%5B01%5D+Retrieval-Augmented+Generation;%5B02%5D+Large+Language+Models;%5B03%5D+AI+Agents+%26+Tool+Calling;%5B04%5D+Hugging+Face+%26+Open+Models;%5B05%5D+Model+Evaluation+%26+Fine-Tuning" />
-
-</div>
+<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
 ```text
-┌── AI ENGINEERING LAB ────────────────────┐
-│                                          │
-│  📚 RAG       → Retrieval & grounding    │
-│  🧠 LLMs      → Model behavior & eval    │
-│  🤖 Agents    → Tools & workflows        │
-│  🔬 Fine-tune → LoRA / QLoRA concepts    │
-│  ⚙️ Automation → APIs / n8n / Python     │
-│                                          │
-└──────────────────────────────────────────┘
+USER       : Ashokkumar K
+ROLE       : AI & Data Science Graduate
+GRADUATION : 2026
+FOCUS      : AI • GenAI • ML • Analytics
+MODE       : Learn. Build. Experiment.
 ```
 
-Current learning roadmap:
+I’m a **B.Tech Artificial Intelligence & Data Science graduate** interested in developing practical AI applications, exploring large language models, and turning data into useful insights.
 
-- [ ] Build a document-question-answering RAG prototype
-- [ ] Experiment with open-source models using Hugging Face
-- [ ] Compare retrieval and answer quality with test questions
-- [ ] Develop a tool-calling AI assistant prototype
-- [ ] Document experiments, limitations, and results
+- 🤖 Exploring Artificial Intelligence and Generative AI
+- 🧠 Learning about LLMs, embeddings and RAG architectures
+- 📊 Building data analytics and machine learning projects
+- ⚡ Exploring AI agents and workflow automation
+- 🔬 Interested in LLM evaluation and fine-tuning fundamentals
+- 🚀 Improving through hands-on projects and continuous learning
+
+> `MISSION: Build useful technology. Measure results. Keep improving.`
 
 ---
 
-## 📡 Live GitHub Analytics
+## `02` // DEVELOPER ARSENAL
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashokkumarinfo&bg_color=050816&color=00F5FF&line=8B5CF6&point=FFFFFF&area_color=312E81&area=true&hide_border=true&custom_title=⚡%20CONTRIBUTION%20MATRIX"/>
+### ⚙️ Languages & Data
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,sql,git,github,linux,vscode&theme=dark" alt="Programming and developer tools"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashokkumarinfo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github" alt="GitHub stats"/>
+### 🧠 AI / Machine Learning
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokkumarinfo&layout=donut&langs_count=8&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=E5E7EB" alt="Language breakdown"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-Exploring-7C3AED?style=for-the-badge" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Generative_AI-Learning-9333EA?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLMs-Research-0891B2?style=for-the-badge" alt="Large language models"/>
+<img src="https://img.shields.io/badge/Hugging_Face-Exploring-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Scikit--learn-ML- F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 
-<br/><br/>
+### 📈 Analytics & Visualization
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Ashokkumarinfo&theme=transparent&hide_border=true&background=050816&ring=8B5CF6&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="Contribution streak"/>
+<img src="https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Excel-Data_Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 
-<br/><br/>
+### 🛠️ Development & Deployment
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Ashokkumarinfo&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies"/>
+<img src="https://skillicons.dev/icons?i=flask,docker,git,github,vercel&theme=dark" alt="Development tools"/>
 
 </div>
 
 ---
 
-## 🌌 3D Contribution Universe
+## `03` // PROJECT LAB 🧪
+
+> Selected projects and experiments. Open the repositories to explore their actual implementation and current status.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 AI Job Search Portal
+
+A project focused on making job discovery and application tracking more organized.
+
+**Focus:** Job discovery · Search workflows · Career tools
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Fake Job & Internship Scam Detector
+
+A project exploring ways to identify suspicious job and internship listings.
+
+**Focus:** Text analysis · Risk indicators · Scam awareness
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 AirCast / SkyPlus
+
+An air-quality-focused application concept for presenting environmental information.
+
+**Focus:** Environmental data · Visualization · Web application
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Uber Ride Prediction
+
+A machine learning project exploring ride-related data and prediction workflows.
+
+**Focus:** Data preparation · Feature exploration · Predictive modeling
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Analytics Dashboards
+
+Analytics projects using structured data to explore patterns and communicate insights.
+
+**Focus:** SQL · Excel · Power BI · Reporting
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & Automation Experiments
+
+A growing area for experimenting with AI tools, workflow automation and intelligent applications.
+
+**Focus:** AI tools · Automation · Application prototyping
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img width="98%" src="https://raw.githubusercontent.com/Ashokkumarinfo/Ashokkumarinfo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
-
-<img width="98%" src="https://raw.githubusercontent.com/Ashokkumarinfo/Ashokkumarinfo/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
+<a href="https://github.com/Ashokkumarinfo?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
+</a>
 
 </div>
 
 ---
 
-## 🎓 Education
+## `04` // AI RESEARCH TERMINAL 🧬
 
-**B.Tech — Artificial Intelligence and Data Science**  
-Bharath Niketan Engineering College · Anna University  
-2022–2026 · GPA: 7.8/10
+```text
+[01] GENERATIVE AI
+     ├── Large Language Models (LLMs)
+     ├── Prompt engineering
+     └── Model capabilities and limitations
+
+[02] RETRIEVAL-AUGMENTED GENERATION
+     ├── Embeddings and semantic search
+     ├── Vector search concepts
+     └── RAG architecture fundamentals
+
+[03] MACHINE LEARNING
+     ├── Data preprocessing and features
+     ├── Model evaluation
+     └── Prediction and error analysis
+
+[04] AI AGENTS & AUTOMATION
+     ├── Tool-calling concepts
+     ├── Workflow orchestration
+     └── Human-in-the-loop design
+
+[05] LLM ENGINEERING
+     ├── Hugging Face ecosystem
+     ├── Fine-tuning fundamentals
+     └── Evaluation and experimentation
+```
+
+*These are learning and research areas—not a claim that every technique has already been implemented in production.*
 
 ---
 
-## 🔗 Connect to My Network
+## `05` // ENGINEERING PRINCIPLES
 
 <div align="center">
 
-<a href="https://github.com/Ashokkumarinfo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ashokkumar-k-a78625402/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://ak-portfolio-iota.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://topmate.io/ashokkumar_k10"><img src="https://img.shields.io/badge/Topmate-FF6B35?style=for-the-badge"/></a>
-<a href="mailto:ashokkumarinfoai@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+| Phase | Principle |
+|:---:|---|
+| `01` | 🔍 Understand the problem |
+| `02` | 🧱 Design a practical solution |
+| `03` | ⚙️ Build and experiment |
+| `04` | 🧪 Test and evaluate |
+| `05` | ♻️ Improve using evidence |
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+EVALUATE+%E2%86%92+IMPROVE;Small+experiments.+Useful+results.;Curiosity+drives+engineering." alt="Engineering principles animation"/>
+
+</div>
+
+---
+
+## `06` // GITHUB TELEMETRY 📡
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashokkumarinfo&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokkumarinfo&layout=compact&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=E5E7EB" alt="Most-used languages"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashokkumarinfo&bg_color=050816&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## `07` // CONTRIBUTION SNAKE 🐍
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ashokkumarinfo/Ashokkumarinfo/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+---
+
+## `08` // CONNECT TO THE DEVELOPER 🌐
+
+<div align="center">
+
+<a href="https://github.com/Ashokkumarinfo">
+<img src="https://img.shields.io/badge/GitHub-Explore_Repositories-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/ashokkumar-k-a78625402/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://ak-portfolio-iota.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-View_Work-7C3AED?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+</a>
+<a href="mailto:ashokkumarinfoai@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=650&lines=Think+in+systems.;Build+with+curiosity.;Engineer+with+purpose.;Keep+evolving.+%F0%9F%9A%80" />
+**Open to:** Entry-level AI, data analytics, machine learning and software opportunities.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:050816&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:050816&height=130&section=footer" width="100%" alt="Animated footer"/>
+
+<sub>⚡ Designed with curiosity, built through experimentation, improved with every project.</sub>
 
 </div>
+
+<!-- ═══════════════ END OF PROFILE ═══════════════ -->
