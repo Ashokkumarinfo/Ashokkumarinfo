@@ -1,39 +1,271 @@
-# Hi 👋, I'm ASHOKKUMAR
+<!-- ===================== HEADER ===================== -->
 
-###  Data Analyst | AI/ML & Python Enthusiast
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashokkumarinfoai" alt="ashokkumarinfoai" /></a> </p>
+# 👋 Hi, I'm **ASHOKKUMAR K**
 
-- 🔭 I'm currently working on **AI-powered applications, data analytics projects, dashboards, and automation solutions**
+### `Data Analyst` • `AI/ML Enthusiast` • `Python Developer` • `GenAI`
 
-- 🌱 I'm currently learning **Advanced SQL, Power BI, Machine Learning, Generative AI, LLMs, RAG and Python**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+AI%2FML+Enthusiast;Building+AI-Powered+Applications;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+GenAI;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
 
-- 👯 I'm looking to collaborate on **Data Analytics, AI/ML, GenAI, Python, automation, and open-source projects**
+<br>
 
-- 🤝 I'm looking for help with **Building production-ready AI/ML and data-driven applications**
+<img src="https://komarev.com/ghpvc/?username=Ashokkumarinfo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on **AI-powered applications, data analytics projects, dashboards, and automation solutions**
+- 🌱 Currently learning **Advanced SQL, Power BI, Machine Learning, Generative AI, LLMs, RAG and Python**
+- 👯 Looking to collaborate on **Data Analytics, AI/ML, GenAI, Python, automation, and open-source projects**
+- 🤝 Interested in building **production-ready AI/ML and data-driven applications**
 - 💬 Ask me about **Python, SQL, Power BI, Data Analytics, AI/ML, GenAI, Excel, and automation**
+- ⚡ Fun fact: **I enjoy turning real-world problems into practical data and AI solutions**
+- 👨‍💻 All my projects: **[Portfolio](https://ak-portfolio-iota.vercel.app/)**
 
-- 📫 How to reach me **ashokkumarinfoai@gmail.com**
+---
 
-- ⚡ Fun fact **I enjoy turning real-world problems into practical data and AI solutions.**
+## 🎯 What I'm Looking For
 
-- 👨‍💻 All of my projects are available at **[https://ak-portfolio-iota.vercel.app/](https://ak-portfolio-iota.vercel.app/)**
+```text
+📊 Data Analyst
+💼 Business Analyst
+🤖 AI / ML Engineer
+🧠 GenAI Engineer
+🐍 Python Developer
+📈 Power BI / MIS Analyst
+💻 IT / Application Support
+🔧 Automation / AI Operations
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/ashokkumarinfoai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ashokkumarinfoai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashokkumar-k-a78625402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashokkumar-k-a78625402" height="30" width="40" /></a>
-<a href="https://fb.com/Ashokkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ashokkumar" height="30" width="40" /></a>
-<a href="https://twitter.com/Ashokkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ashokkumar" height="30" width="40" /></a>
+📍 Open to opportunities across **India** and **Remote**
+
+---
+
+# 🛠️ Tech Stack
+
+### 🐍 Programming & Data
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,git,github" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/d3js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gradio" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mlflow" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sketch" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+### 📊 Data Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashokkumarinfoai&show_icons=true&locale=en&layout=compact" alt="ashokkumarinfoai" /></p>
+<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashokkumarinfoai&show_icons=true&locale=en" alt="ashokkumarinfoai" /></p>
+<img src="https://skillicons.dev/icons?i=python,mysql,jupyter" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashokkumarinfoai&" alt="ashokkumarinfoai" /></p>
+</p>
 
+**Python • SQL • Pandas • NumPy • Matplotlib • Excel • Power BI • Data Cleaning • Data Visualization**
+
+---
+
+### 🤖 AI / Machine Learning / GenAI
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+
+</p>
+
+**Machine Learning • NLP • Generative AI • LLMs • RAG • AI Automation • Scikit-Learn**
+
+---
+
+### 🌐 Development & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flask,fastapi,docker,linux,vscode,postman" />
+
+</p>
+
+**Flask • FastAPI • Streamlit • Docker • Linux • Git • GitHub • Postman • VS Code**
+
+---
+
+### 🧠 AI Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 AI Job Search Portal
+
+AI-powered platform for discovering relevant job opportunities and improving job applications.
+
+**Focus:** AI • GenAI • Job Search • Automation • Career Assistance
+
+---
+
+### 📊 Data Analytics & Power BI Dashboards
+
+Interactive dashboards designed to analyze business data, identify trends and communicate actionable insights.
+
+**Tech:** Power BI • Excel • SQL • Python
+
+---
+
+### 🧠 Fake Job / Internship Scam Detector
+
+Machine-learning based project designed to identify potentially suspicious job and internship postings.
+
+**Tech:** Python • Machine Learning • NLP • AI
+
+---
+
+### ✈️ AirCast / SkyPlus
+
+Data-driven air-quality application providing air-quality information and insights.
+
+**Tech:** Python • APIs • Data Analytics • Streamlit
+
+---
+
+### 🚗 Uber Ride Prediction
+
+Machine-learning project using historical data to predict ride-related outcomes.
+
+**Tech:** Python • Pandas • NumPy • Scikit-Learn • Machine Learning
+
+---
+
+# 🏆 GitHub Profile Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ashokkumarinfo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashokkumarinfo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokkumarinfo&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ashokkumarinfo&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Ashokkumarinfo/Ashokkumarinfo/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</p>
+
+> ⚠️ The snake requires a GitHub Action to generate the `output` SVG. Setup instructions are below.
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashokkumarinfo&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Ashokkumarinfo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashokkumar-k-a78625402/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ak-portfolio-iota.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://topmate.io/ashokkumar_k10">
+<img src="https://img.shields.io/badge/Topmate-FF6B35?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Contact
+
+📧 **Email:** `ashokkumarinfoai@gmail.com`
+
+🌐 **Portfolio:**  
+https://ak-portfolio-iota.vercel.app/
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/ashokkumar-k-a78625402/
+
+🐙 **GitHub:**  
+https://github.com/Ashokkumarinfo
+
+---
+
+# 💡 Current Focus
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║   📊 Data Analytics                         ║
+║   🤖 Artificial Intelligence                ║
+║   🧠 Generative AI                          ║
+║   🐍 Python Development                     ║
+║   📈 Business Intelligence                  ║
+║   🔄 AI Automation                           ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+## ⚡ Motto
+
+> **"Turning real-world problems into practical data and AI solutions."**
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</p>
